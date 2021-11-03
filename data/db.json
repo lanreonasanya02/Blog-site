@@ -1,0 +1,35 @@
+{
+  "blogs": [
+    {
+      "title": "Javascript as the language of the future",
+      "body": "This is an introduction to JavaScript for the complete beginner. It'll provide the fundamentals of the language. Topics include variables, operators, functions, arrays, objects, and loops. After this course, you should ready to further your learning through advanced courses or other resources. There is NO installation required for this course. Code can be viewed and run directly from the lessons. This course has been created by Arnav Aggarwal, a fullstack engineer. Arnav has attended a coding boot camp and has taught at another one. He has extensive experience understanding how pepole learn to code. In under a month, Arnav's published articles on JavaScript concepts have received over 50,000 views and have been featured on Medium.com and codementor.io due to their value. After this course, check out the next one in the series.",
+      "author": "Lanre Adeolu",
+      "id": 1
+    },
+    {
+      "title": "In Python, I believe!",
+      "body": "Your study plan contains all the activities you need to reach your learning goal. Tailored to your skills, it will keep you on track and focused. The study plan is divided into several stages of increasing complexity, allowing you to gradually expand your knowledge without getting overwhelmed. Code can be viewed and run directly from the lessons. This course has been created by Arnav Aggarwal, a fullstack engineer. Arnav has attended a coding boot camp and has taught at another one. He has extensive experience understanding how pepole learn to code.",
+      "author": "Samheart",
+      "id": 2
+    },
+    {
+      "title": "Cryptocurrency at its peak",
+      "body": "Python is a simple, yet powerful programming language that bridges the gap between C and shell programming, and is thus ideally suited for 'throw-away programming' and rapid prototyping. Python is also suitable as an extension language for highly customizable C applications such as editors or window managers. Python is available for various operating systems, amongst which several flavors of UNIX, Amoeba, the Apple Macintosh O.S., and MS-DOS. This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. It helps to have a Python interpreter handy for hands-on experience, but as the examples are self- contained, the tutorial can be read off-line as well. For a description of standard objects and modules, see the Python Library Reference manual. The Python Reference Manual gives a more formal definition of the language.",
+      "author": "James Adenubi",
+      "id": 3
+    },
+    {
+      "title": "Sales & Marketing",
+      "body": "You don’t get better at swimming by watching others. Coding is no different. Practice as you learn with live code environments inside your browser. Videos are holding you back. The average video tutorial is spoken at 150 words per minute, while you can read at 250. That‘s why our courses are text-based.",
+      "author": "Wasiu Omotosho",
+      "id": 4
+    },
+    {
+      "title": "Can JavaScript stand the test of time?",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium expedita, aliquid recusandae cumque impedit accusamus mollitia sit dolore facilis eaque. Quis excepturi tenetur vero, esse possimus sapiente aut. Dolore, distinctio!",
+      "author": "Lanre Onasanya",
+      "gender": "Female",
+      "id": 5
+    }
+  ]
+}
